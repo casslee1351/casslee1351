@@ -13,7 +13,7 @@ I am mostly interested in mathematics, but I also love working on data science p
 
 📫 If you're looking to collaborate (or just want to nerd out with someone), feel free to reach me at casslee1351@gmail.com
 
-Connect with me [on LinkedIn](www.linkedin.com/in/cassidylee1351)!
+Connect with me on [LinkedIn](www.linkedin.com/in/cassidylee1351/)!
 
 <!---
 casslee1351/casslee1351 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
