@@ -11,7 +11,7 @@ Originally from Oklahoma 🤠 Now based in Wichita, Kansas 🌻
 I am mostly interested in mathematics, but I also love working on data science projects and developing video games. I also like to spend time and talk math and data science with my identical twin sister, Christi Lee ([@Honeybee-Lee](https://github.com/Honeybee-Lee)).
 
 
-📫 If you're looking to collaborate (or just want to nerd out with someone), feel free to reach me at casslee1351@gmail.com
+📫 If you're looking to collaborate (or just feeling nerdy), feel free to reach me at casslee1351@gmail.com
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/cassidylee1351/)!
 
