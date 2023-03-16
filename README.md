@@ -8,7 +8,7 @@ I am also a full-time data analyst for Textron Aviation ✈️.
 # 🌽🌽🌽🌽🌽🌽🌽🌽🌽🌽🌽🌽🌽
 Originally from Oklahoma 🤠 Now based in Wichita, Kansas 🌻
 
-I am mostly interested in mathematics, but I also love working on data science projects and developing video games. I also like to spend time and talk data science with my identical twin sister, Christi Lee (@Honeybee-Lee).
+I am mostly interested in mathematics, but I also love working on data science projects and developing video games. I also like to spend time and talk data science with my identical twin sister, Christi Lee [@Honeybee-Lee](https://github.com/Honeybee-Lee).
 
 
 📫 If you're looking to collaborate (or just want to nerd out with someone), feel free to reach me at casslee1351@gmail.com
