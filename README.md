@@ -1,7 +1,7 @@
 # Cassidy Lee
 
 Hi, I’m Cassidy Lee, a master's student at Georgia Tech studying analytics!
-I am also a full-time data analyst for Textron Aviation ✈️
+I am also a full-time data scientist for Textron Aviation ✈️
 
 ![image](5989F572-32E0-4D07-AD6B-4116A55D40DD.jpeg)
 
