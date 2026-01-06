@@ -14,6 +14,7 @@ I am mostly interested in pure mathematics, but I also love working on data scie
 📫 If you're looking to collaborate (or just feeling nerdy), feel free to reach me at casslee1351@gmail.com
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/cassidylee1351/)!
+Instagram [@cassidylarue](https://www.instagram.com/cassidylarue/)
 
 <!---
 casslee1351/casslee1351 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
